@@ -1,6 +1,6 @@
 to add new packages, you must create a pull request
 
-the archive MUST be .tar, and should resemble this: (NOTE: the file names are not important, its the locations)
+the archive MUST be .tar (NOT .tar.xz), and should resemble this: (NOTE: the file names are not important, its the locations)
 ```
 .tar:
     -  bin
