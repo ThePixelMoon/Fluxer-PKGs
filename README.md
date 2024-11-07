@@ -13,4 +13,4 @@ the archive MUST be .tar (NOT .tar.xz), and should resemble this: (NOTE: the fil
     -  lib (if its a c++ library)
        -  example-lib.lib
 ```
-to generate the checksum, it must be SHA256. you should use gen-checksum.bat for that
+to generate the checksum, it must be SHA256. you should use gen-checksum.bat/.sh for that
