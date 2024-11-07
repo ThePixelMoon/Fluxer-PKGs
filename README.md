@@ -8,5 +8,9 @@ the archive MUST be .tar, and should resemble this: (NOTE: the file names are no
        -  file2.exe
        -  linux-file
        -  linux-script.sh
+    -  include (if its a c++ library)
+       - file.h
+    -  lib (if its a c++ library)
+       -  example-lib.lib
 ```
 to generate the checksum, it must be SHA256. you should use gen-checksum.bat for that
